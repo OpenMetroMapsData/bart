@@ -33,8 +33,6 @@
     <station lat="37.713158" lon="-122.212303" name="Oakland International Airport"/>
     <station lat="37.877695" lon="-122.184350" name="Orinda"/>
     <station lat="38.018960" lon="-121.945447" name="Pittsburg/Bay Point"/>
-    <station lat="38.018922" lon="-121.932608" name="Pittsburg/Bay Point Transfer (BART to Antioch)"/>
-    <station lat="38.018951" lon="-121.933073" name="Pittsburg/Bay Point Transfer (BART)"/>
     <station lat="37.927773" lon="-122.056853" name="Pleasant Hill / Contra Costa Centre"/>
     <station lat="37.784069" lon="-122.408101" name="Powell Street"/>
     <station lat="37.937576" lon="-122.353710" name="Richmond"/>
@@ -144,7 +142,6 @@
       <stop station="Oakland International Airport"/>
     </line>
     <line circular="false" color="#ffe800" name="Yellow">
-      <stop station="Pittsburg/Bay Point Transfer (BART)"/>
       <stop station="Pittsburg/Bay Point"/>
       <stop station="North Concord / Martinez"/>
       <stop station="Concord"/>
@@ -171,10 +168,6 @@
       <stop station="San Bruno"/>
       <stop station="San Francisco International Airport"/>
       <stop station="Millbrae"/>
-    </line>
-    <line circular="false" color="#ffe800" name="Yellow">
-      <stop station="Pittsburg/Bay Point Transfer (BART)"/>
-      <stop station="Pittsburg/Bay Point Transfer (BART to Antioch)"/>
     </line>
   </lines>
 </omm-file>
