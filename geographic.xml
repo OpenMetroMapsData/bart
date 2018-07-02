@@ -139,7 +139,7 @@
       <stop station="El Cerrito del Norte"/>
       <stop station="Richmond"/>
     </line>
-    <line circular="false" color="silver" name="Silver">
+    <line circular="false" color="#c0c0c0" name="Silver">
       <stop station="Coliseum"/>
       <stop station="Oakland International Airport"/>
     </line>
