@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omm-file version="1.0.0">
+  <stations>
+    <station lat="37.764403" lon="-122.419682" name="16th Street Mission"/>
+    <station lat="37.806832" lon="-122.269595" name="19th Street Oakland"/>
+    <station lat="37.751626" lon="-122.418455" name="24th Street Mission"/>
+    <station lat="37.853964" lon="-122.269335" name="Ashby"/>
+    <station lat="37.720808" lon="-122.447731" name="Balboa Park"/>
+    <station lat="37.697582" lon="-122.127341" name="Bay Fair"/>
+    <station lat="37.690775" lon="-122.076795" name="Castro Valley"/>
+    <station lat="37.778888" lon="-122.414657" name="Civic Center"/>
+    <station lat="37.754315" lon="-122.197520" name="Coliseum"/>
+    <station lat="37.684008" lon="-122.465276" name="Colma"/>
+    <station lat="37.972869" lon="-122.029547" name="Concord"/>
+    <station lat="37.705491" lon="-122.469639" name="Daly City"/>
+    <station lat="37.870998" lon="-122.268283" name="Downtown Berkeley"/>
+    <station lat="37.701718" lon="-121.900444" name="Dublin/Pleasanton"/>
+    <station lat="37.903448" lon="-122.299573" name="El Cerrito Plaza"/>
+    <station lat="37.926010" lon="-122.317520" name="El Cerrito del Norte"/>
+    <station lat="37.792223" lon="-122.397794" name="Embarcadero"/>
+    <station lat="37.558144" lon="-121.977489" name="Fremont"/>
+    <station lat="37.775425" lon="-122.225058" name="Fruitvale"/>
+    <station lat="37.732653" lon="-122.434543" name="Glen Park"/>
+    <station lat="37.670332" lon="-122.087861" name="Hayward"/>
+    <station lat="37.892954" lon="-122.125796" name="Lafayette"/>
+    <station lat="37.797711" lon="-122.266374" name="Lake Merritt"/>
+    <station lat="37.827850" lon="-122.267338" name="MacArthur"/>
+    <station lat="37.599484" lon="-122.386064" name="Millbrae"/>
+    <station lat="37.788580" lon="-122.402379" name="Montgomery Street"/>
+    <station lat="37.874308" lon="-122.284283" name="North Berkeley"/>
+    <station lat="38.002613" lon="-122.025236" name="North Concord / Martinez"/>
+    <station lat="37.802585" lon="-122.272263" name="Oakland City Center - 12th Street"/>
+    <station lat="37.713158" lon="-122.212303" name="Oakland International Airport"/>
+    <station lat="37.877695" lon="-122.184350" name="Orinda"/>
+    <station lat="38.018960" lon="-121.945447" name="Pittsburg/Bay Point"/>
+    <station lat="37.927773" lon="-122.056853" name="Pleasant Hill / Contra Costa Centre"/>
+    <station lat="37.784069" lon="-122.408101" name="Powell Street"/>
+    <station lat="37.937576" lon="-122.353710" name="Richmond"/>
+    <station lat="37.844378" lon="-122.252372" name="Rockridge"/>
+    <station lat="37.636641" lon="-122.415650" name="San Bruno"/>
+    <station lat="37.616479" lon="-122.390834" name="San Francisco International Airport"/>
+    <station lat="37.722647" lon="-122.161314" name="San Leandro"/>
+    <station lat="37.635155" lon="-122.057791" name="South Hayward"/>
+    <station lat="37.663516" lon="-122.442952" name="South San Francisco"/>
+    <station lat="37.591399" lon="-122.018112" name="Union City"/>
+    <station lat="37.904936" lon="-122.067878" name="Walnut Creek"/>
+    <station lat="37.503206" lon="-121.939777" name="Warm Springs/South Fremont"/>
+    <station lat="37.699514" lon="-121.929471" name="West Dublin/Pleasanton"/>
+    <station lat="37.805354" lon="-122.296260" name="West Oakland"/>
+  </stations>
+  <lines>
+    <line circular="false" color="#00aeef" name="Blue">
+      <stop station="Dublin/Pleasanton"/>
+      <stop station="West Dublin/Pleasanton"/>
+      <stop station="Castro Valley"/>
+      <stop station="Bay Fair"/>
+      <stop station="San Leandro"/>
+      <stop station="Coliseum"/>
+      <stop station="Fruitvale"/>
+      <stop station="Lake Merritt"/>
+      <stop station="West Oakland"/>
+      <stop station="Embarcadero"/>
+      <stop station="Montgomery Street"/>
+      <stop station="Powell Street"/>
+      <stop station="Civic Center"/>
+      <stop station="16th Street Mission"/>
+      <stop station="24th Street Mission"/>
+      <stop station="Glen Park"/>
+      <stop station="Balboa Park"/>
+      <stop station="Daly City"/>
+    </line>
+    <line circular="false" color="#4db848" name="Green">
+      <stop station="Warm Springs/South Fremont"/>
+      <stop station="Fremont"/>
+      <stop station="Union City"/>
+      <stop station="South Hayward"/>
+      <stop station="Hayward"/>
+      <stop station="Bay Fair"/>
+      <stop station="San Leandro"/>
+      <stop station="Coliseum"/>
+      <stop station="Fruitvale"/>
+      <stop station="Lake Merritt"/>
+      <stop station="West Oakland"/>
+      <stop station="Embarcadero"/>
+      <stop station="Montgomery Street"/>
+      <stop station="Powell Street"/>
+      <stop station="Civic Center"/>
+      <stop station="16th Street Mission"/>
+      <stop station="24th Street Mission"/>
+      <stop station="Glen Park"/>
+      <stop station="Balboa Park"/>
+      <stop station="Daly City"/>
+    </line>
+    <line circular="false" color="#faa61a" name="Orange">
+      <stop station="Warm Springs/South Fremont"/>
+      <stop station="Fremont"/>
+      <stop station="Union City"/>
+      <stop station="South Hayward"/>
+      <stop station="Hayward"/>
+      <stop station="Bay Fair"/>
+      <stop station="San Leandro"/>
+      <stop station="Coliseum"/>
+      <stop station="Fruitvale"/>
+      <stop station="Lake Merritt"/>
+      <stop station="Oakland City Center - 12th Street"/>
+      <stop station="19th Street Oakland"/>
+      <stop station="MacArthur"/>
+      <stop station="Ashby"/>
+      <stop station="Downtown Berkeley"/>
+      <stop station="North Berkeley"/>
+      <stop station="El Cerrito Plaza"/>
+      <stop station="El Cerrito del Norte"/>
+      <stop station="Richmond"/>
+    </line>
+    <line circular="false" color="#ed1c24" name="Red">
+      <stop station="Millbrae"/>
+      <stop station="San Bruno"/>
+      <stop station="South San Francisco"/>
+      <stop station="Colma"/>
+      <stop station="Daly City"/>
+      <stop station="Balboa Park"/>
+      <stop station="Glen Park"/>
+      <stop station="24th Street Mission"/>
+      <stop station="16th Street Mission"/>
+      <stop station="Civic Center"/>
+      <stop station="Powell Street"/>
+      <stop station="Montgomery Street"/>
+      <stop station="Embarcadero"/>
+      <stop station="West Oakland"/>
+      <stop station="Oakland City Center - 12th Street"/>
+      <stop station="19th Street Oakland"/>
+      <stop station="MacArthur"/>
+      <stop station="Ashby"/>
+      <stop station="Downtown Berkeley"/>
+      <stop station="North Berkeley"/>
+      <stop station="El Cerrito Plaza"/>
+      <stop station="El Cerrito del Norte"/>
+      <stop station="Richmond"/>
+    </line>
+    <line circular="false" color="#c0c0c0" name="Silver">
+      <stop station="Coliseum"/>
+      <stop station="Oakland International Airport"/>
+    </line>
+    <line circular="false" color="#ffe800" name="Yellow">
+      <stop station="Pittsburg/Bay Point"/>
+      <stop station="North Concord / Martinez"/>
+      <stop station="Concord"/>
+      <stop station="Pleasant Hill / Contra Costa Centre"/>
+      <stop station="Walnut Creek"/>
+      <stop station="Lafayette"/>
+      <stop station="Orinda"/>
+      <stop station="Rockridge"/>
+      <stop station="MacArthur"/>
+      <stop station="19th Street Oakland"/>
+      <stop station="Oakland City Center - 12th Street"/>
+      <stop station="West Oakland"/>
+      <stop station="Embarcadero"/>
+      <stop station="Montgomery Street"/>
+      <stop station="Powell Street"/>
+      <stop station="Civic Center"/>
+      <stop station="16th Street Mission"/>
+      <stop station="24th Street Mission"/>
+      <stop station="Glen Park"/>
+      <stop station="Balboa Park"/>
+      <stop station="Daly City"/>
+      <stop station="Colma"/>
+      <stop station="South San Francisco"/>
+      <stop station="San Bruno"/>
+      <stop station="San Francisco International Airport"/>
+      <stop station="Millbrae"/>
+    </line>
+  </lines>
+  <view name="Test" scene-height="600.000000" scene-width="700.000000" start-x="329.080000" start-y="475.760000">
+    <edges line="Blue"/>
+    <edges line="Green"/>
+    <edges line="Orange"/>
+    <edges line="Red"/>
+    <edges line="Silver"/>
+    <edges line="Yellow"/>
+    <station name="16th Street Mission" x="144.021520" y="375.473815"/>
+    <station name="19th Street Oakland" x="291.308538" y="272.409363"/>
+    <station name="24th Street Mission" x="132.118604" y="392.216103"/>
+    <station name="Ashby" x="280.080646" y="236.143215"/>
+    <station name="Balboa Park" x="108.312771" y="425.700678"/>
+    <station name="Bay Fair" x="425.295142" y="432.179865"/>
+    <station name="Castro Valley" x="491.131036" y="430.161329"/>
+    <station name="Civic Center" x="155.924436" y="358.731528"/>
+    <station name="Coliseum" x="363.854747" y="374.016203"/>
+    <station name="Colma" x="115.922849" y="472.572023"/>
+    <station name="Concord" x="486.185624" y="85.518594"/>
+    <station name="Daly City" x="96.409855" y="442.442966"/>
+    <station name="Downtown Berkeley" x="263.380630" y="213.611190"/>
+    <station name="Dublin/Pleasanton" x="591.604258" y="417.291664"/>
+    <station name="El Cerrito Plaza" x="229.980598" y="168.547141"/>
+    <station name="El Cerrito del Norte" x="213.280582" y="146.015117"/>
+    <station name="Embarcadero" x="191.633185" y="308.504665"/>
+    <station name="Fremont" x="512.228177" y="526.995973"/>
+    <station name="Fruitvale" x="333.134549" y="344.934373"/>
+    <station name="Glen Park" x="120.215687" y="408.958390"/>
+    <station name="Hayward" x="447.028401" y="455.883892"/>
+    <station name="Lafayette" x="389.000414" y="170.460343"/>
+    <station name="Lake Merritt" x="302.414351" y="315.852542"/>
+    <station name="MacArthur" x="291.815204" y="255.402092"/>
+    <station name="Millbrae" x="194.741891" y="566.624626"/>
+    <station name="Montgomery Street" x="179.730269" y="325.246952"/>
+    <station name="North Berkeley" x="246.680614" y="191.079166"/>
+    <station name="North Concord / Martinez" x="518.580694" y="57.204678"/>
+    <station name="Oakland City Center - 12th Street" x="291.103870" y="287.645713"/>
+    <station name="Oakland International Airport" x="341.615516" y="393.843526"/>
+    <station name="Orinda" x="356.605344" y="198.774259"/>
+    <station name="Pittsburg/Bay Point" x="550.975764" y="28.890761"/>
+    <station name="Pleasant Hill / Contra Costa Centre" x="453.790554" y="113.832510"/>
+    <station name="Powell Street" x="167.827352" y="341.989240"/>
+    <station name="Richmond" x="196.580566" y="123.483093"/>
+    <station name="Rockridge" x="324.210274" y="227.088175"/>
+    <station name="San Bruno" x="160.095200" y="513.476695"/>
+    <station name="San Francisco International Airport" x="195.486757" y="531.631810"/>
+    <station name="San Leandro" x="394.574944" y="403.098034"/>
+    <station name="South Hayward" x="468.761660" y="479.587919"/>
+    <station name="South San Francisco" x="136.310268" y="492.866813"/>
+    <station name="Union City" x="490.494919" y="503.291946"/>
+    <station name="Walnut Creek" x="421.395484" y="142.146426"/>
+    <station name="Warm Springs/South Fremont" x="533.961436" y="550.700000"/>
+    <station name="West Dublin/Pleasanton" x="539.706091" y="423.956885"/>
+    <station name="West Oakland" x="253.474236" y="302.893711"/>
+  </view>
+</omm-file>
